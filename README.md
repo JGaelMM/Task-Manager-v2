@@ -1,3 +1,15 @@
+## Vista previa
+
+## Tablero principal
+![Tablero principal](screenshots/tablero-principal.png)
+
+## Tablero principal dark
+![Tablero principal modo oscuro](screenshots/tablero-principal-dark.png)
+
+## Formulario Tarea
+![Formulario de edicion de tarea](screenshots/formulario-tarea.png)
+
+
 # Kanban Task Manager
 
 Aplicacion web de gestion de tareas estilo Kanban con tablero de 4 columnas, drag and drop, y CRUD completo.
